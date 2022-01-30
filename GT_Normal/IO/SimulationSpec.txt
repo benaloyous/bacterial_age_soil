@@ -1,0 +1,2 @@
+NodeDim, NEdges, NSubstrates, NSpecies
+1,3,2,1

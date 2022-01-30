@@ -1,0 +1,2 @@
+TumblingProbability, SwimmingVelocity, ChemotacticSensitivity
+0.25,2e-6,2e-8

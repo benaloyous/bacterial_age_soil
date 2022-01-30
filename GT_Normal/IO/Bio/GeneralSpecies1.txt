@@ -1,0 +1,2 @@
+Weight, MaxGrowthRate, Yield
+1e-14, 6.9e-5, 0.05

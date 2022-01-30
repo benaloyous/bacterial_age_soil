@@ -1,0 +1,2 @@
+Genus,Name, Shape,Metabolism, Motility
+Pseudomonas,Putida,Rod,Monod,Swimming

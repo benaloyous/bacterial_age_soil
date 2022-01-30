@@ -1,0 +1,3 @@
+Substrate, DWater
+Citrate, 5.7e-10
+Oxygen, 1.97e-9
